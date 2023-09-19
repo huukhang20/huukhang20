@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dinh Huu Khang</h1>
 <h3 align="center">A backend developer from Vietnam</h3>
 
-<h3 align="left">Connect with me: khangdh072002@gmail.com</h3>
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.facebook.com/khang.huu.02/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original-wordmark.svg" alt="android" width="40" height="40"/>
 <p align="left">
 </p>
 
