@@ -2,7 +2,7 @@
 <h3 align="center">A backend developer from Vietnam</h3>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.facebook.com/khang.huu.02/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original-wordmark.svg" alt="android" width="40" height="40"/>
+<a href="https://www.facebook.com/khang.huu.02/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khanghuu20" width="40" height="40"/>
 <p align="left">
 </p>
 
